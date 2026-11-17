@@ -47,6 +47,5 @@ L'utilisateur sera amenée à choisir entre une transaction de débit / crédit.
 
 ## Author
 
-Duru Ugochukwu
-
+uuduru
 
